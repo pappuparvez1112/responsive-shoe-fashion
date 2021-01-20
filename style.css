@@ -1,0 +1,35 @@
+
+.nav-pic img{
+    width:350px;
+    margin-right:400px;
+}
+.banner{
+    background-color:skyblue;
+}
+.banner img{
+    width:80%;
+
+}
+.banner h1{
+    text-transform:uppercase;
+    color:purple;
+
+}
+.banner span{
+    color:plum;
+}
+.btn-logo img{
+    width:30px;
+    margin-right:6px;
+}
+.main-card{
+   
+    border:0;
+}
+.last-pic img{
+    width:100%;
+}
+.container-last img{
+    width:120px;
+    
+}
