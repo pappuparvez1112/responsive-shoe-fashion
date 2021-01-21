@@ -22,14 +22,15 @@
     width:30px;
     margin-right:6px;
 }
+
 .main-card{
    
     border:0;
 }
+
+.last-part img{
+    width:50px;
+}
 .last-pic img{
     width:100%;
-}
-.container-last img{
-    width:120px;
-    
 }
